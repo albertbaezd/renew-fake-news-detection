@@ -3,7 +3,9 @@
 *A Dataset and Model Benchmarking Project for Short Political Claims*  
 
 ## 📰✅ Overview  
-ReNew is a project focused on creating a manually verified dataset of short political claims scraped from renowned news classification webpages, specifically **Politifact**. The project evaluates the performance of BERT and DistilBERT models—both trained from scratch and fine-tuned—as well as pre-trained models from Hugging Face, for fake news detection. This dataset takes inspiration from the published work by: William Yang Wang. 2017. “Liar, Liar Pants on Fire”: A New Benchmark Dataset for Fake News Detection. 
+ReNew is a project focused on creating a manually verified dataset of short political claims scraped from renowned news classification webpages, specifically **Politifact**. The project evaluates the performance of BERT and DistilBERT models—both trained from scratch and fine-tuned—as well as pre-trained models from Hugging Face, for fake news detection. This dataset takes inspiration from the published work by: William Yang Wang. 2017. “Liar, Liar Pants on Fire”: A New Benchmark Dataset for Fake News Detection.
+
+For access to the whole model weights and files missing in this lightweight version of the repository, please refer to: [this Google Drive link](https://drive.google.com/drive/folders/1l06N329qqXur4IWpec_fRk_Pgv0CetV5?usp=sharing).
 
 Key phases:  
 1. **Custom Model Training**:  
