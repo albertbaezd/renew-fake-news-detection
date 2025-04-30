@@ -94,6 +94,6 @@ MIT License. See `LICENSE` file for details.
 
 ---  
 ## 🙌 Credits  
-- **Contributors**: [albertbaezd](https://github.com/albertbaezd), [Cferrer0](https://github.com/Cferrer0).  
+- **Contributors**: [albertbaezd](https://github.com/albertbaezd), [Cferrer08](https://github.com/Cferrer08).  
 - **Data Sources**: Politifact, LIAR dataset.  
 - **Tools**: Hugging Face, PyTorch/TensorFlow, Selenium.  
