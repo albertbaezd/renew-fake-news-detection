@@ -1,0 +1,5 @@
+Greetings.
+
+Please place the corresponding model files here. For reference follow the Readme file where this folder is contained.
+
+You may also download the files from this Google Drive link: https://drive.google.com/drive/folders/1l06N329qqXur4IWpec_fRk_Pgv0CetV5?usp=sharing
