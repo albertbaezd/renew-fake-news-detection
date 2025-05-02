@@ -48,11 +48,12 @@ Through experiments using relevant datasets such as ISOT Politifact and LIAR we 
 future evaluation purposes.
 
 <img src="https://github.com/user-attachments/assets/490487f5-2b18-42cf-a523-b126374adeeb" width="600">
-
 <br>
-
 <img src="https://github.com/user-attachments/assets/0a5cb703-a7df-4800-ad90-a5d989d4b4dd" width="600">
-
+<br>
+<img src="https://github.com/user-attachments/assets/65de7dd9-802f-48ad-a66e-f6a60fca2b35" width="600">
+<br>
+<img src="https://github.com/user-attachments/assets/0e26c5c3-b132-4b2d-a74c-e8048cc2e27b" width="600">
 
 The final version of ReNew that we are presenting to the scientific community symbolizes a meaningful starting point for future research as our goal is to collaborate in a way that facilitates access for more researchers to an up-to-date multicolumn political news dataset that facilitates the exploration of new approaches in this area of study.
 
