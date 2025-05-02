@@ -42,6 +42,20 @@ Evaluaed metrics for each model: Accuracy, Precision, Recall, Specificity, F1-sc
 
 First, in each of the model folders, in each of the corresponding notebook files you may find the code necessary for loading the models, customizing and preprocessing the necessary datasets for that model and for performing and saving a fine tuned version of each.
 
+### Results
+
+Through experiments using relevant datasets such as ISOT Politifact and LIAR we were able to confirm that adding ReNew as a part of the training process of fake news detection models can improve their detection capability for recent short news statements without noticeably affecting their accuracy on the original datasets they are based on, allowing to place an additional layer of recent context on existing models for
+future evaluation purposes.
+
+<img src="https://github.com/user-attachments/assets/490487f5-2b18-42cf-a523-b126374adeeb" width="600">
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/0a5cb703-a7df-4800-ad90-a5d989d4b4dd" width="600">
+
+
+The final version of ReNew that we are presenting to the scientific community symbolizes a meaningful starting point for future research as our goal is to collaborate in a way that facilitates access for more researchers to an up-to-date multicolumn political news dataset that facilitates the exploration of new approaches in this area of study.
+
 ## 📂 Folder Structure 
 
     ReNew/
